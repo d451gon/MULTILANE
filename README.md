@@ -13,8 +13,13 @@ Note that the length of the candidate lanes changes randomly between samples (ti
 
 **Yielding for a left-turn**
 
+<img src="/gifs/lane_0001.gif" width="507" height="460"/>
+
 **Straight at an intesection**
+
 
 **Uncertain at an intersection**
 
+
 **Lane change to overtake stopped obstacle**
+

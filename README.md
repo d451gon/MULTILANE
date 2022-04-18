@@ -17,9 +17,12 @@ Note that the length of the candidate lanes changes randomly between samples (ti
 
 **Straight at an intesection**
 
+<img src="/gifs/lane_0014.gif" width="507" height="460"/>
 
 **Uncertain at an intersection**
 
+<img src="/gifs/lane_0088.gif" width="507" height="460"/>
 
 **Lane change to overtake stopped obstacle**
 
+<img src="/gifs/lane_0147.gif" width="507" height="460"/>

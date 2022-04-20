@@ -30,3 +30,28 @@ Note that the length of the candidate lanes changes randomly between samples (ti
 **Right lane at a junction**
 
 <img src="/gifs/lane_0147.gif" width="507" height="460"/>
+
+### Examples of trajectory endpoint prediction
+
+We show the predicted endpoint distribution for the candidate centerline with the highest probability.
+
+**Yielding to do a left-turn**
+
+<img src="/gifs/eps_0001.gif" width="507" height="460"/>
+
+**Straight at an intesection**
+
+<img src="/gifs/eps_0014.gif" width="507" height="460"/>
+
+**Uncertain at an intersection**
+
+<img src="/gifs/eps_0088.gif" width="507" height="460"/>
+
+**Lane change to overtake a stopped obstacle**
+
+<img src="/gifs/eps_0126.gif" width="507" height="460"/>
+
+**Right lane at a junction**
+
+<img src="/gifs/eps_0147.gif" width="507" height="460"/>
+

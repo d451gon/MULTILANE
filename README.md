@@ -55,3 +55,28 @@ We show the predicted endpoint distribution for the candidate centerline with th
 
 <img src="/gifs/eps_0147.gif" width="507" height="460"/>
 
+
+### Examples of trajectory forecasts (3 second horizon)
+
+We show the 6 forecasted trajectories conditioned on the candidate and endpoint distributions. The trajectory shown in gold represents the most confident prediction (used for single-forecast evaluation). 
+
+**Yielding to do a left-turn**
+
+<img src="/gifs/trajs_0001.gif" width="507" height="460"/>
+
+**Straight at an intesection**
+
+<img src="/gifs/trajs_0014.gif" width="507" height="460"/>
+
+**Uncertain at an intersection**
+
+<img src="/gifs/trajs_0088.gif" width="507" height="460"/>
+
+**Lane change to overtake a stopped obstacle**
+
+<img src="/gifs/trajs_0126.gif" width="507" height="460"/>
+
+**Right lane at a junction**
+
+<img src="/gifs/trajs_0147.gif" width="507" height="460"/>
+

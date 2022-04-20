@@ -31,9 +31,9 @@ Note that the length of the candidate lanes changes randomly between samples (ti
 
 <img src="/gifs/lane_0147.gif" width="507" height="460"/>
 
-### Examples of trajectory endpoint prediction
+### Examples of trajectory endpoint prediction (3 second horizon)
 
-We show the predicted endpoint distribution for the candidate centerline with the highest probability.
+We show the predicted endpoint distribution for the candidate centerline with the highest probability. The model predicts a discrete distribution over possible locations of the target 3 seconds into the future.
 
 **Yielding to do a left-turn**
 
